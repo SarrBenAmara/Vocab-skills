@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<presentation guid="FFD039C3-409D-468D-8798-6F21AB3F4BFC" version="0" availableOffline="1">
+<presentation guid="226C61D3-1FE4-4148-8EC4-E877EB60FBFC" version="0" availableOffline="1">
 	<info>
 		<title>Vocabulary &amp; Skills development</title>
 		<description/>
 	</info>
-	<files index="id54" thumbnail="id94" totalSize="11393823">
+	<files index="id54" thumbnail="id94" totalSize="11405752">
 		<file id="id0">data/thmb1.jpg</file>
 		<file id="id1">data/slide1.js</file>
 		<file id="id2">data/slide1.css</file>
